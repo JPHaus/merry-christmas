@@ -1,0 +1,22 @@
+{
+    "name": "merry-christmas",
+    "displayName": "Merry Christmas",
+    "description": "The only Santa approved theme.",
+    "version": "0.0.1",
+    "publisher": "DankThemes",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Merry Christmas",
+                "uiTheme": "vs",
+                "path": "./themes/merry-christmas-color-theme.json"
+            }
+        ]
+    }
+}
