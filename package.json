@@ -4,6 +4,10 @@
     "description": "The only Santa approved theme.",
     "version": "0.0.1",
     "publisher": "DankThemes",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JPHaus/merry-christmas.git"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
